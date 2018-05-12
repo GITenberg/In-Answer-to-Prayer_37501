@@ -9,7 +9,7 @@ creator:
   - agent_name: Knox-Little, W. J. (William John)
     alias: Knox-Little, William John
     birthdate: 1839
-    deathdate: &id001 1918
+    deathdate: 1918
     gutenberg_agent_id: '38881'
     url: http://www.gutenberg.org/2009/agents/38881
   - agent_name: Carpenter, William Boyd
@@ -17,7 +17,7 @@ creator:
     - Carpenter, Boyd
     - Carpenter, W. Boyd (William Boyd)
     birthdate: 1841
-    deathdate: *id001
+    deathdate: 1918
     gutenberg_agent_id: '38879'
     url: http://www.gutenberg.org/2009/agents/38879
     wikipedia: https://en.wikipedia.org/wiki/William_Boyd_Carpenter
@@ -41,6 +41,8 @@ creator:
     gutenberg_agent_id: '38882'
     url: http://www.gutenberg.org/2009/agents/38882
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37501#In-Answer-to-Prayer
 gutenberg_issued: '2011-09-21'
 gutenberg_type: Text
 identifiers:
