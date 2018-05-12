@@ -1,0 +1,56 @@
+_repo: In-Answer-to-Prayer_37501
+_version: 0.1.0
+alternative_title: The Touch of the Unseen; Answers to Prayer
+covers:
+- cover_type: archival
+  image_path: 37501-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Knox-Little, W. J. (William John)
+    alias: Knox-Little, William John
+    birthdate: 1839
+    deathdate: &id001 1918
+    gutenberg_agent_id: '38881'
+    url: http://www.gutenberg.org/2009/agents/38881
+  - agent_name: Carpenter, William Boyd
+    aliases:
+    - Carpenter, Boyd
+    - Carpenter, W. Boyd (William Boyd)
+    birthdate: 1841
+    deathdate: *id001
+    gutenberg_agent_id: '38879'
+    url: http://www.gutenberg.org/2009/agents/38879
+    wikipedia: https://en.wikipedia.org/wiki/William_Boyd_Carpenter
+  - agent_name: Maclaren, Ian
+    alias: Watson, John
+    birthdate: 1850
+    deathdate: 1907
+    gutenberg_agent_id: '2364'
+    url: http://www.gutenberg.org/2009/agents/2364
+    wikipedia: http://en.wikipedia.org/wiki/Ian_Maclaren
+  - agent_name: Cuyler, Theodore L. (Theodore Ledyard)
+    alias: Cuyler, Theodore Ledyard
+    birthdate: 1822
+    deathdate: 1909
+    gutenberg_agent_id: '4421'
+    url: http://www.gutenberg.org/2009/agents/4421
+    wikipedia: http://en.wikipedia.org/wiki/Theodore_L._Cuyler
+  - agent_name: Quarrier, William
+    birthdate: 1829
+    deathdate: 1903
+    gutenberg_agent_id: '38882'
+    url: http://www.gutenberg.org/2009/agents/38882
+description: ''
+gutenberg_issued: '2011-09-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37501'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Prayer'
+- !lcc 'BV'
+title: In Answer to Prayer
+url: http://www.gutenberg.org/ebooks/37501
